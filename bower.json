@@ -4,7 +4,7 @@
   "authors": [
     "Jarrett Drouillard <jarrett@thestyl.us>"
   ],
-  "description": "Includes .js scripts for Symbolset",
+  "description": "Small component dealing with Symbolset's js aspects.",
   "keywords": [
     "symbolset",
     "iconfonts",
