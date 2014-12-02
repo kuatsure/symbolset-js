@@ -5,7 +5,7 @@
 *
 * Upload this file to your web server
 * and place this before the closing </body> tag.
-* <script src="webfonts/ss-pika.js"></script>
+* <script src="webfonts/ss-gizmo.js"></script>
 */
 
 if (/(MSIE [7-9]\.|Opera.*Version\/(10\.[5-9]|(11|12)\.)|Chrome\/([1-9]|10)\.|Version\/[2-4][\.0-9]+ Safari\/|Version\/(4\.0\.[4-9]|4\.[1-9]|5\.0)[\.0-9]+? Mobile\/.*Safari\/|Android ([1-2]|4\.[2-9].*Version\/4)\.|BlackBerry.*WebKit)/.test(navigator.userAgent) && !/(IEMobile)/.test(navigator.userAgent)) {
