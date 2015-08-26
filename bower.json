@@ -1,12 +1,13 @@
 {
   "name": "symbolset-js",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "authors": [
     "Jarrett Drouillard <jarrett@thestyl.us>"
   ],
   "description": "Small component dealing with Symbolset's js aspects.",
   "keywords": [
     "symbolset",
+    "symbolicons",
     "iconfonts",
     "icon",
     "font"
@@ -14,7 +15,8 @@
   "scripts": [
     "ss-social.js",
     "ss-gizmo.js",
-    "ss-standard.js"
+    "ss-standard.js",
+    "ss-symbolicons.js"
   ],
   "license": "MIT",
   "ignore": [
