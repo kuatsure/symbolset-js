@@ -1,0 +1,16 @@
+{
+  "name": "symbolset-js",
+  "version": "0.4.0",
+  "description": "Small component dealing with Symbolset's js aspects.",
+  "author": "Jarrett Drouillard <jarrett@thestyl.us>",
+  "keywords": [
+    "symbolset",
+    "symbolicons",
+    "iconfonts",
+    "icon",
+    "font"
+  ],
+  "dependencies": {},
+  "repository": "git@github.com:kuatsure/symbolset-js.git",
+  "license": "MIT"
+}
